@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E4B9FF&height=300&section=header&text=Hi!%20I'am%20Kiki&fontSize=90&fontColor=FFFEFC)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E4B9FF&height=300&section=header&text=Hi!%20I'm%20Kiki!&fontSize=90&fontColor=FFFEFC)
 
 
 
