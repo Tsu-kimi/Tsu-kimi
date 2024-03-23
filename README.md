@@ -3,7 +3,7 @@
 
 My name is Gift Asor, and I'm currently a web developer and college student. I have a strong interest in game development, AI, machine learning, and robotics! In my free time, I love to work on various random projects while exploring new ideas and technologies.
 
-#SKILLS
+# SKILLS
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,figma,github,mongodb,nextjs,py,react,stackoverflow,tailwind,ts,vscode&perline=8)](https://skillicons.dev)
 
