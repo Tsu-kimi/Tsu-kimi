@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E4B9FF&height=300&section=header&text=Hi!%20I'm%20Kiki!&fontSize=90&fontColor=FFFEFC)
 
 
+My name is Gift Asor, and I'm currently a web developer and college student. I have a strong interest in game development, AI, machine learning, and robotics! In my free time, I love to work on various random projects while exploring new ideas and technologies.
+
+SKILLS
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,figma,github,mongodb,nextjs,py,react,stackoverflow,tailwind,ts,vscode)](https://skillicons.dev)
 
 
 <!--
